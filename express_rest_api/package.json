@@ -1,0 +1,16 @@
+{
+  "name": "express_rest_api",
+  "version": "1.0.0",
+  "description": "Programming with mosh - Youtube Mar 9 2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^16.1.1",
+    "express": "^4.17.1"
+  }
+}
